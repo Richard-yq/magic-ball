@@ -1,0 +1,16 @@
+# IDE 相關檔案
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# R 相關檔案
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# 輸出檔案
+*.pdf
+Rplots.pdf
